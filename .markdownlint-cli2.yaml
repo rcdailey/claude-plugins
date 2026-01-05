@@ -1,0 +1,4 @@
+config:
+  line-length:
+    line_length: 100
+  first-line-heading: false

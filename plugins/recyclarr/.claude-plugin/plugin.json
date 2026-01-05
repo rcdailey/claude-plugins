@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "rcdailey"
+  },
+  "description": "Recyclarr project tooling: TRaSH Guides research, wiki docs, code investigation, Docusaurus helpers, and PR workflows",
+  "keywords": [
+    "recyclarr",
+    "trash-guides",
+    "sonarr",
+    "radarr",
+    "docusaurus"
+  ],
+  "name": "recyclarr",
+  "version": "1.0.0"
+}

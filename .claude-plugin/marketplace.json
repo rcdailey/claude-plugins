@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "description": "Personal collection of Claude Code plugins, agents, and commands",
+    "version": "1.0.0"
+  },
+  "name": "rcdailey-plugins",
+  "owner": {
+    "name": "rcdailey"
+  },
+  "plugins": [
+    {
+      "description": "Recyclarr project tooling: TRaSH Guides research, wiki docs, code investigation, Docusaurus helpers, and PR workflows",
+      "keywords": [
+        "recyclarr",
+        "trash-guides",
+        "sonarr",
+        "radarr",
+        "docusaurus"
+      ],
+      "name": "recyclarr",
+      "source": "./plugins/recyclarr",
+      "version": "1.0.0"
+    }
+  ]
+}
