@@ -20,5 +20,5 @@ lifecycle:
   - move to `Done` after you commit the work (user likely will use the `/commit` command to signal
     this).
 - If new details arise, amend issue description or add comments
-- If tangents arrise during the course of work, keep the user on track: Avoid rabbit trails by
+- If tangents arise during the course of work, keep the user on track: Avoid rabbit trails by
   offering to capture work as new linear issues.

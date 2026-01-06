@@ -4,7 +4,7 @@ description: >
   Use this agent for Docusaurus-specific questions including MDX components, sidebar configuration,
   plugin setup, theming, SCSS styling, and build issues. Retrieves current Docusaurus v3
   documentation.
-tools: MCPSearch, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, Read, Glob
+tools: mcp__context7__resolve-library-id, mcp__context7__query-docs, Read, Glob
 model: sonnet
 ---
 
