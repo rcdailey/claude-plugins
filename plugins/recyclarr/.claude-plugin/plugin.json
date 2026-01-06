@@ -2,7 +2,7 @@
   "author": {
     "name": "rcdailey"
   },
-  "description": "Recyclarr project tooling: TRaSH Guides research, wiki docs, code investigation, Docusaurus helpers, and PR workflows",
+  "description": "Recyclarr project tooling: TRaSH Guides structure knowledge, doc quality validation, Docusaurus helpers, and PR workflows",
   "keywords": [
     "recyclarr",
     "trash-guides",
@@ -11,5 +11,5 @@
     "docusaurus"
   ],
   "name": "recyclarr",
-  "version": "1.0.0"
+  "version": "2.0.0"
 }
