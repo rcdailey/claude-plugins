@@ -24,6 +24,9 @@ plugins/<name>/
 
 ## Critical Rules
 
+- **VERSION UPDATES MANDATORY**: Every distinct plugin change MUST include a version bump in
+  `plugin.json` following semver (major: breaking changes, minor: new features, patch: fixes). No
+  exceptions.
 - `.claude-plugin/` contains ONLY `plugin.json` - all component dirs at plugin root
 - Default dirs (`commands/`, `agents/`, `skills/`) auto-load; manifest paths are for ADDITIONAL
   custom locations that supplement defaults
@@ -63,6 +66,12 @@ tools: Tool1, Tool2, mcp__server__tool
 model: sonnet|haiku|opus
 ---
 ```
+
+### Model Selection
+
+- `haiku` - Focused tasks: validation, pattern matching, file scanning, search operations
+- `sonnet` - Complex reasoning: documentation synthesis, multi-step analysis, nuanced guidance
+- `opus` - Most demanding tasks requiring deepest reasoning (rarely needed for agents)
 
 ## Command Frontmatter
 
